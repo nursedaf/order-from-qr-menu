@@ -10,4 +10,3 @@
 - Check the order status and update like taked or preparing
 - Add the product and update
 
-
